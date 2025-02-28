@@ -49,14 +49,14 @@ Answer by writing in Git message format for example: "feat(sql): a query languag
 
 Submit by doing 3 different commits for each topics
 
-- SQL ✅
-- HTML ✅
+- SQL ✅✅
+- HTML ✅✅
 - CSS ✅
 
 Example:
 
 feat(sql): learned how to use SELECT, JOINs, and WHERE clauses to query data efficiently this is a hard to learn 
-feat(html): structuring content with semantic elements like `<header>`, `<section>`, and `<article>`  
+feat(html): structuring content with semantic elements i like a basic to learn i need it 
 feat(css): styling layouts using Flexbox and Grid for responsive design
 
 Your Summary in Git commit message format:
