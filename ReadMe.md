@@ -51,7 +51,7 @@ Submit by doing 3 different commits for each topics
 
 - SQL ✅✅
 - HTML ✅✅
-- CSS ✅
+- CSS ✅✅
 
 Example:
 
@@ -61,6 +61,6 @@ feat(css): styling layouts using Flexbox and Grid for responsive design
 
 Your Summary in Git commit message format:
 
-- ?
-- ?
-- ?
+feat(sql): learn SELECT,join,groudby,basic database thank you so much kub
+feat(html):learn basic html, semantic html, 
+feat(css): learn styling layouts and flexbox and grid for responsive design try to learn again to professional
